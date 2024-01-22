@@ -1,0 +1,107 @@
+body {
+    background-color: snow;
+}
+
+.form-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    border-radius: 20px;
+    background-color: snow;
+    margin-top: 50px;
+}
+
+.todo-item {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    margin-left: 30%;
+    border-color: whitesmoke;
+    border-radius: 5px;
+
+    background-color: snow;
+    width: 33%;
+}
+
+#submit {
+
+    background-color: dodgerblue;
+    padding: 4px;
+    border: solid 3px white;
+    border-color: dodgerblue;
+}
+
+#text-input {
+    background-color: white;
+    border-radius: 4px;
+    padding: 4px;
+    border-color: dodgerblue;
+    border: solid dodgerblue 3px;
+}
+
+section {
+    border: solid 1px snow;
+    height: 100px;
+    padding-top: 60px;
+    width: 30%;
+    margin-left: 30%;
+}
+
+#displayText-class {
+    background-color: snow;
+    border: none;
+    margin-left: 1px;
+    margin-right: 215px;
+
+}
+
+.delete {
+
+    background-color: dodgerblue;
+    border-color: dodgerblue;
+    border-radius: 5px;
+    height: 30px;
+    font-style: bold;
+
+
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.todo-content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: snow;
+
+}
+
+.class-delete {
+    margin-left: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.text {
+
+    border-radius: 7px;
+    width: 200px;
+    height: 25px;
+    border-color: dodgerblue;
+    background-color: snow;
+
+}
+
+h3 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: large;
+    font-style: bold;
+}
